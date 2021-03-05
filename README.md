@@ -4,7 +4,7 @@ Introduction to TDD: Hands-On Training Materials
 
 ## Summary
 
-The materials, exercises, and instructions in this repo are meant to provide a brief introduction to Jest, Jest-CLI, Enyzme, and based TDD concepts. Use the `INSTRUCTIONS.md` to complete the exercises.
+The materials, exercises, and instructions in this repo are meant to provide a brief, hands-on introduction to Jest, Jest-CLI, Enyzme, and basic TDD concepts. Use the `INSTRUCTIONS.md` to complete the exercises.
 
 ### Resources
 
