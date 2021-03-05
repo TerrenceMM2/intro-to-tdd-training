@@ -81,7 +81,7 @@ In this exercise, we will practice writing tests _first_ and then writing functi
 
 4. Write and export two functions:
 
-    1. A function called "subtract" that takes in two parameters and returns both parameters added together.
+    1. A function called "add" that takes in two parameters and returns both parameters added together.
     2. A function called "subtract" that takes in two parameters. Ensure the smaller of the two numbers provided is subtracted from the larger number provide, regardless of the order in which the arguments are supplied.
 
 5. Be sure to import both functions to the `helpers.test.js` file.
