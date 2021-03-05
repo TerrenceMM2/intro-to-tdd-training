@@ -130,6 +130,21 @@ Enzyme is a JavaScript Testing utility for React that makes it easier to test yo
 
 3. If `npm test` is not running, execute it. Do **NOT** run `npm start`.
 
+4. Within the `describe()` method, create variable called `wrapper` and use the `shallow()` Enzyme method to render the App component.
+
+5. Write a test that finds the `#counter-value` element within the `<App />` component, analyzes the text, and expects that value `.toBe()` 0.
+
+6. Write a test that finds the `#increment-btn` within the `<App />` component and simulates a click event. Then, expects to find the `#counter-value` text value `.toBe()` 1.
+
+7. Write a test that simulates two click events:
+
+    - Click the increment button
+    - The value displayed in `#counter-value` is 1.
+    - Click the decrement button
+    - The value displays in `#counter-value` is 0.
+
+8. Refactor the tests to use the `beforeEach()` Jest method and include the `wrapper` variable.
+
 #### Resources:
 
 -   ["Simplify Repetitive Jest Test Cases with test.each" by Bartosz Gordon](https://dev.to/bgord/simplify-repetitive-jest-test-cases-with-test-each-310m)
