@@ -6,6 +6,12 @@ Introduction to TDD: Hands-On Training Materials
 
 The materials, exercises, and instructions in this repo are meant to provide a brief, hands-on introduction to Jest, Jest-CLI, Enyzme, and basic TDD concepts. Use the `INSTRUCTIONS.md` to complete the exercises.
 
+## Technologies Used
+
+-   [React](https://reactjs.org/)
+-   [Jest](https://jestjs.io/en/)
+-   [Enzyme](https://www.npmjs.com/package/enzyme)
+
 ### Resources
 
 -   ["Simplify Repetitive Jest Test Cases with test.each" by Bartosz Gordon](https://dev.to/bgord/simplify-repetitive-jest-test-cases-with-test-each-310m)
