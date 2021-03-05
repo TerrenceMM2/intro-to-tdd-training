@@ -6,5 +6,3 @@ describe("Counter Testing", () => {
 
 
 })
-
-

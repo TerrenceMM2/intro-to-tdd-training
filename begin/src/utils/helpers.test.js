@@ -3,7 +3,6 @@
 import user from "../data/user";
 import { add, subtract } from "./helpers"
 
-
 // describe() - groups related tests
 describe("user data validation", () => {
     test("user has an email", () => {

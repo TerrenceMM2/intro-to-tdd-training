@@ -40,6 +40,7 @@ In this exercise, we will explore grouping tests together using the Jest `descri
 
 2. With the VS Code's integrate terminal open, run `npm test`.
 
+    **NOTE** - If Jest does not run against the `helpers.test.js`, in the Jest prompt type `a` to run all tests.
     The tests will fail. Data will be provided in the next step.
 
 3. In the `src/data` directory, open the `user.js` file.
